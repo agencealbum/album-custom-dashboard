@@ -5,7 +5,7 @@ Plugin URI: https://www.agenncealbum.com
 Description: Agence Album
 Author: Florian Moreno
 Author URI: https://www.agencealbum.com/notre-equipe
-GitHub Plugin URI: https://github.com/afragen/github-updater
+GitHub Plugin URI: https://github.com/agencealbum/album-custom-dashboard
 Version: 1.0
 */
 /**
