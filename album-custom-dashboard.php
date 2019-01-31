@@ -6,7 +6,7 @@ Description: Agence Album
 Author: Florian Moreno
 Author URI: https://www.agencealbum.com/notre-equipe
 GitHub Plugin URI: https://github.com/agencealbum/album-custom-dashboard
-Version: 1.0
+Version: 1.1
 */
 /**
  * Creates a link to the settings page under the WordPress Settings in the dashboard
@@ -24,7 +24,7 @@ function custom_dashboard_help() {
 	<h2 style="border-bottom: 2px solid #8b6dc3;display: inline-block;">Agence Album</h2>
 	<p>
 	<ul>
-	<li><b>Mail:</b> support@agencealbum.com</li>
+	<li><b>Mail: </b> support@agencealbum.com</li>
 	<li><b>Téléphone:</b> 03 85 38 37 83</li>
 	</ul>
 	</p>
